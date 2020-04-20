@@ -9,7 +9,7 @@ module.exports = {
     author: "@johndoe",
     twitterUsername: "@john_smilga",
     image: "/defaultBcg.jpeg",
-    siteUrl: "https://gatsby-backroad-project.netlify.com",
+    siteUrl: "https://papiyinks-backroad.netlify.app",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
